@@ -1,4 +1,4 @@
-package br.com.dextra.components.querypaginator;
+package io.github.raonifn.jpaquerypaginator;
 
 import java.lang.reflect.Proxy;
 

@@ -1,10 +1,15 @@
-package br.com.dextra.components.querypaginator;
+package io.github.raonifn.jpaquerypaginator;
 
 import static org.easymock.EasyMock.createMock;
 import static org.easymock.EasyMock.expect;
 import static org.easymock.EasyMock.replay;
 import static org.easymock.EasyMock.verify;
 import static org.junit.Assert.assertEquals;
+import io.github.raonifn.jpaquerypaginator.PaginatedQuery;
+import io.github.raonifn.jpaquerypaginator.PaginatedResult;
+import io.github.raonifn.jpaquerypaginator.Pagination;
+import io.github.raonifn.jpaquerypaginator.Paginator;
+import io.github.raonifn.jpaquerypaginator.PaginatorUtils;
 
 import java.util.ArrayList;
 import java.util.List;

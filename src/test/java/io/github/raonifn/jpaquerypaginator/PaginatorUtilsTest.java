@@ -1,12 +1,12 @@
-package br.com.dextra.components.querypaginator;
+package io.github.raonifn.jpaquerypaginator;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.fail;
+import io.github.raonifn.jpaquerypaginator.Pagination;
+import io.github.raonifn.jpaquerypaginator.PaginatorUtils;
 
 import org.junit.Test;
-
-import br.com.dextra.components.querypaginator.Pagination;
 
 public class PaginatorUtilsTest {
 

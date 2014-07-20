@@ -1,4 +1,4 @@
-package br.com.dextra.components.querypaginator;
+package io.github.raonifn.jpaquerypaginator;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
