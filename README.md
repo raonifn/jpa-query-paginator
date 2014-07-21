@@ -6,6 +6,7 @@ API to Real Pagination over JPA.
 ## Current Version
 1.0.0
 
+
 ##Travis CI
 
 [![Build Status](https://travis-ci.org/raonifn/jpa-query-paginator.png)](https://travis-ci.org/raonifn/jpa-query-paginator)
