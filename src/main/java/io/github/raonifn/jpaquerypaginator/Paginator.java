@@ -34,7 +34,6 @@ public class Paginator {
     	String countQueryString = PaginatorUtils.mountCountQuery(queryString);
     	this.realQuery = entityManager.createNativeQuery(queryString);
 		this.countQuery = entityManager.createNativeQuery(countQueryString);
-		
 		return createPaginatorInvocationHandler();
 	}
 
