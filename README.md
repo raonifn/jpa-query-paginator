@@ -9,7 +9,7 @@ API to Real Pagination over JPA.
 
 ##Travis CI
 
-[![Build Status](https://travis-ci.org/raonifn/jpa-query-paginator.png)](https://travis-ci.org/raonifn/jpa-query-paginator)
+[![Build Status](https://travis-ci.org/raonifn/jpa-query-paginator.svg)](https://travis-ci.org/raonifn/jpa-query-paginator)
 [![Build Status](https://api.shippable.com/projects/540e79213479c5ea8f9ea40e/badge?branchName=master)](https://app.shippable.com/projects/540e79213479c5ea8f9ea40e/builds/latest)
 
 ## Maven users
