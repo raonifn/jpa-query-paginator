@@ -4,7 +4,7 @@ jpa-query-paginator
 API to Real Pagination over JPA.
 
 ## Current Version
-1.2.3
+1.2.4
 
 
 ##Travis CI
@@ -20,7 +20,7 @@ Maven repository: http://raonifn.github.io/repository/releases/
 <dependency>
    <groupId>io.github.raonifn</groupId>
    <artifactId>jpa-query-paginator</artifactId>
-   <version>1.2.3</version>
+   <version>1.2.4</version>
 </dependency>
 ```
 
